@@ -2,6 +2,7 @@
 # Language: Python
 # Input: CSV (network)
 # Output: prefix (for eigenvalues and eigenvectors)
+# Tested with: PluMA 1.0, Python 2.7
 
 PluMA plugin to compute eigenvectors for spectral clustering (Meila and Shi, 2001).  
 This plugin accepts as input a network in CSV format, with both rows and columns representing
