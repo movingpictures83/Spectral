@@ -1,0 +1,2 @@
+Prefix plugins/Spectral/example/
+Plugin Spectral inputfile corrP.csv outputfile corrP.spectral
